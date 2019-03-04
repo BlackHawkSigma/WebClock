@@ -1,9 +1,9 @@
 const CACHE_NAME = 'static-cache-v1'
 const URLS_TO_CACHE = [
-  '/',
-  'index.html',
-  'main.css',
-  'main.js',
+  './',
+  './index.html',
+  './main.css',
+  './main.js',
   'https://fonts.googleapis.com/css?family=Ubuntu'
 ]
 
