@@ -1,4 +1,4 @@
-let lastTimestamp = new Date()
+let lastTimestamp = 0
 
 requestAnimationFrame(clock)
 
